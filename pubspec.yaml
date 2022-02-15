@@ -1,0 +1,41 @@
+name: ta_face_recognition
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  firebase_core: ^1.9.0
+  firebase_auth: ^3.1.5
+  firebase_ml_vision: ^0.9.10
+  cloud_firestore: ^3.0.0
+  modal_progress_hud: ^0.1.3
+  font_awesome_flutter: ^9.2.0
+  image_picker: ^0.8.4+4
+  tflite_flutter: ^0.8.0
+  camera: ^0.8.1
+  path_provider: ^2.0.1
+  path: ^1.8.0
+  google_ml_kit: ^0.5.0
+  image: ^3.0.2
+  url_launcher: ^6.0.3
+  syncfusion_flutter_datepicker: ^19.3.54
+  intl: ^0.17.0
+  firebase_database: ^9.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/

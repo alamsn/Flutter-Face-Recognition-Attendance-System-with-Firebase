@@ -1,0 +1,16 @@
+{
+  "Users": {
+    "WmgXM85V7hh4aYH0UkSBTTH72nu2": {
+      "nama": "admin",
+      "role": "admin"
+    },
+    "rlfOgWk1doZ4qhjRkGmQ54Lb0j12": {
+      "nama": "alam",
+      "role": "user"
+    },
+    "4kDZEIddtoRFOuE6app1bULsQTx1": {
+      "nama": "simulasi",
+      "role": "user"
+    }
+  }
+}
